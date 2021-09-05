@@ -25,14 +25,14 @@
                         </li>
                     </ul>
                 </div>         
-            </nav>
+            </nav><br><br>
         </div>
         
         <!-- Formulario de Contacto -->
 
-        <div class="container col-4 border-dark">
-            @csrf
-            <br><br>
+
+    <div class="container col-4">
+        @csrf
             <form class="bg-form" action="" method="GET">
                 <label for="">Nombre</label>
                 <input class="form-control" type="text" name="nombre">
@@ -45,14 +45,12 @@
                 <label for="">Mensaje</label>
                 <textarea class="form-control" name="mensaje" id="mensaje" cols="30" rows="10"></textarea><br>
                 <button class="btn btn-primary" type="submit">Enviar</button>
-
             </form>
-        </div>
-
-
+    </div>
 
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
   </body>
+  
 </html>
