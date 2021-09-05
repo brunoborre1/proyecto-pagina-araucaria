@@ -58,7 +58,7 @@
                 <img src="https://static.wixstatic.com/media/f55608_ab59dbb8055c410380b86a9463b057f5~mv2_d_3517_2512_s_4_2.jpg/v1/fill/w_1743,h_500,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01/f55608_ab59dbb8055c410380b86a9463b057f5~mv2_d_3517_2512_s_4_2.webp" class="d-block w-100" alt="...">
                 </div>
                 <div class="carousel-item">
-                <img src="https://static.wixstatic.com/media/f55608_317b4b612c38469782acdceab61bd11d~mv2.jpg/v1/fill/w_1348,h_980,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01/f55608_317b4b612c38469782acdceab61bd11d~mv2.webp" class="d-block w-100" alt="...">
+                <img src="https://static.wixstatic.com/media/f55608_f9c86d87c3dc4f12b13811d473cc29e7~mv2.jpg/v1/fill/w_1743,h_500,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01/f55608_f9c86d87c3dc4f12b13811d473cc29e7~mv2.webp" class="d-block w-100" alt="...">
                 </div>
             </div>
             <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
@@ -140,7 +140,7 @@
              <!-- Copyright -->
             </footer>
 
-
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>                
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
