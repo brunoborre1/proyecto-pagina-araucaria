@@ -30,8 +30,9 @@
         
         <!-- Formulario de Contacto -->
 
-        <div class="container col-4">
+        <div class="container col-4 border-dark">
             @csrf
+            <br><br>
             <form class="bg-form" action="" method="GET">
                 <label for="">Nombre</label>
                 <input class="form-control" type="text" name="nombre">

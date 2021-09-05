@@ -27,12 +27,12 @@
                     </ul>
                 </div>         
             </nav>
-        </div>
+        </div><br>
 
     <!-- Jumbotron -->    
 
     <div class="container-fluid">
-        <div class="jumbotron jumbotron-fluid">
+        <div class="jumbotron jumbotron-fluid border-success">
             <div class="container">
                 <h1 class="display-4 align-content-center justify-content-center text-center">Clinica Araucaria les da la bienvenida</h1>
                 <p class="lead align-content-center justify-content-center text-center">Consultorios externos y hospital de dia</p>
@@ -72,27 +72,13 @@
     </div>
 
 
-        <!-- <div class="carousel slide" data-ride="carousel">  id="carouselExampleSlidesOnly" 
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <img class="img-responsive" src="https://static.wixstatic.com/media/f55608_ab59dbb8055c410380b86a9463b057f5~mv2_d_3517_2512_s_4_2.jpg/v1/fill/w_1743,h_500,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01/f55608_ab59dbb8055c410380b86a9463b057f5~mv2_d_3517_2512_s_4_2.webp" alt="First slide">
-                </div>
-                <div class="carousel-item">
-                    <img class="img-responsive" src="https://static.wixstatic.com/media/f55608_f9c86d87c3dc4f12b13811d473cc29e7~mv2.jpg/v1/fill/w_980,h_500,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01/f55608_f9c86d87c3dc4f12b13811d473cc29e7~mv2.webp" alt="Second slide">
-                </div>
-                <div class="carousel-item">
-                    <img class="img-responsive" src="https://static.wixstatic.com/media/a92b750ff10d40f6be491420594d76da.jpg/v1/fill/w_980,h_500,fp_0.50_0.50,q_85,usm_0.66_1.00_0.01/a92b750ff10d40f6be491420594d76da.webp" alt="Third slide">
-                </div>
-            </div>
-        </div>
-        -->
 
     <!-- Cards -->
 
     <div class="container-fluid">
         <div class="row row-cols-1 row-cols-md-3 g-4">
             <div class="col">
-                <div class="card h-100">
+                <div class="card border-success h-100">
                 <img src="https://static.wixstatic.com/media/f55608_e658082f682c438dbb15da1db5544722~mv2_d_6924_4621_s_4_2.jpg/v1/fill/w_740,h_494,al_c,q_90/f55608_e658082f682c438dbb15da1db5544722~mv2_d_6924_4621_s_4_2.webp" style="height:604px; width: 608px;">
                 <div class="card-body">
                 <h5 class="card-title">Fisioterapia y Kinesiologia</h5>
@@ -104,7 +90,7 @@
                     </div>
                 </div>
         <div class="col">
-            <div class="card h-100">
+            <div class="card border-success h-100">
             <img src="https://static.wixstatic.com/media/f55608_9370ed901d634c6f86d2e31b8a1ff2e2~mv2_d_3024_4032_s_4_2.jpg/v1/fill/w_1088,h_1450,al_c,q_90/f55608_9370ed901d634c6f86d2e31b8a1ff2e2~mv2_d_3024_4032_s_4_2.webp" style="height:604px; width: 608px;">
                 <div class="card-body">
                 <h5 class="card-title">Nuestras Instalaciones</h5>
@@ -117,7 +103,7 @@
                 </div>
                 </div>
         <div class="col">
-            <div class="card h-100">
+            <div class="card border-success h-100">
                 <img src="https://static.wixstatic.com/media/nsplsh_684967656f516a535f6945~mv2_d_3072_1728_s_2.jpg/v1/fill/w_740,h_416,al_c,q_90/nsplsh_684967656f516a535f6945~mv2_d_3072_1728_s_2.webp" style="height:604px; width: 608px;">
                 <div class="card-body">
                 <h5 class="card-title">Nuestos Profesionales y Especiliadades</h5>
@@ -131,11 +117,41 @@
             </div><br><br>
         </div>
 
+    <!-- Ubicacion y Datos -->
 
+        <div class="container text-center bg-success">
+            <p class="text-white"><strong>Nos encontramos en calle Peru 604 de Ciudad</strong></p> 
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d26815.787837594686!2d-68.8282923!3d-32.84595385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1630807808793!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <br><br>
+        </div>
 
     <!-- Footer -->
     <footer>
-
+        <br><br>
+            <footer class="bg-success text-center text-white">
+                <!-- Grid container -->
+                <div class="container p-4 pb-0">
+                    <!-- Section: Social media -->                  
+                <section class="mb-4">
+                    <!-- Facebook -->
+                    <a class="btn btn-outline-light btn-floating m-1" href="https://www.facebook.com/clinica.araucaria.mdz/" role="button">
+                    <i class="fab fa-facebook-f"></i>
+                    </a>
+                    <!-- Instagram -->
+                    <a class="btn btn-outline-light btn-floating m-1" href="https://www.instagram.com/clinica.araucaria/?hl=es" role="button">
+                    <i class="fab fa-instagram"></i>
+                    </a>
+                </section>
+                    <!-- Section: Social media -->
+                </div>
+                    <!-- Grid container -->
+                    <!-- Copyright -->
+                    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+                    © 2021 Copyright: Bruno Borrello
+                    <a class="text-white" href="#">brunoborrello.com.ar</a>
+                </div>
+             <!-- Copyright -->
+            </footer>
     </footer>
 
         <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
