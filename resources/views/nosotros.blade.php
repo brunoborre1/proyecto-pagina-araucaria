@@ -25,6 +25,13 @@
                     </ul>
                 </div>         
             </nav>
+        </div><br>
+
+        <!-- Contenedor con la informacion sobre nosotros -->
+        
+        <div class="container col-6">
+            <h2>Sobre Araucaria</h2>
+            <p>Clinicia Araucaria es una institucion joven con apenas 6 años de expereciena en la cual su principal actividad es la salud. Actualmente contamos con varias especialiades y convenios con varias obras sociales de Mendoza</p>
         </div>
 
 
